@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["define","colorpicker"],"mappings":";;;;;;;AAAAA,QACC,iBACC,SAASC,GACV,OAAOA","file":"../main.js","sourcesContent":["define([\r\n\t\"./colorpicker\"\r\n],function(colorpicker){\r\n\treturn colorpicker;\r\n});"]}
